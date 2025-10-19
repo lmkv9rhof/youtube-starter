@@ -1,2 +1,3 @@
 Plan deployment strategy
 Note blocker list
+Ensure all external dependencies are vendored securely
